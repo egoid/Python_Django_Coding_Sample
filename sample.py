@@ -1,4 +1,4 @@
-## Python/Django Coding Samples
+## Python/Django Coding Sample
 ##
 ## This is a Cron Task which creates a two datastores made from two different data sets from Quandl - and updating every 15 minutes if there are changes.
 ##
