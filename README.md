@@ -1,1 +1,0 @@
-# Python_Django_Coding_Sample
